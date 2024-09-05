@@ -1,0 +1,30 @@
+/Users/dubemeneh/Documents/Projects/C#Projects/bin/Debug/net8.0/C#Projects
+/Users/dubemeneh/Documents/Projects/C#Projects/bin/Debug/net8.0/C#Projects.deps.json
+/Users/dubemeneh/Documents/Projects/C#Projects/bin/Debug/net8.0/C#Projects.runtimeconfig.json
+/Users/dubemeneh/Documents/Projects/C#Projects/bin/Debug/net8.0/C#Projects.dll
+/Users/dubemeneh/Documents/Projects/C#Projects/bin/Debug/net8.0/C#Projects.pdb
+/Users/dubemeneh/Documents/Projects/C#Projects/obj/Debug/net8.0/C#Projects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dubemeneh/Documents/Projects/C#Projects/obj/Debug/net8.0/C#Projects.AssemblyInfoInputs.cache
+/Users/dubemeneh/Documents/Projects/C#Projects/obj/Debug/net8.0/C#Projects.AssemblyInfo.cs
+/Users/dubemeneh/Documents/Projects/C#Projects/obj/Debug/net8.0/C#Projects.csproj.CoreCompileInputs.cache
+/Users/dubemeneh/Documents/Projects/C#Projects/obj/Debug/net8.0/C#Projects.sourcelink.json
+/Users/dubemeneh/Documents/Projects/C#Projects/obj/Debug/net8.0/C#Projects.dll
+/Users/dubemeneh/Documents/Projects/C#Projects/obj/Debug/net8.0/refint/C#Projects.dll
+/Users/dubemeneh/Documents/Projects/C#Projects/obj/Debug/net8.0/C#Projects.pdb
+/Users/dubemeneh/Documents/Projects/C#Projects/obj/Debug/net8.0/C#Projects.genruntimeconfig.cache
+/Users/dubemeneh/Documents/Projects/C#Projects/obj/Debug/net8.0/ref/C#Projects.dll
+/Users/dubemeneh/Documents/Projects/C#Projects/C# Retail Store/bin/Debug/net8.0/C#Projects
+/Users/dubemeneh/Documents/Projects/C#Projects/C# Retail Store/bin/Debug/net8.0/C#Projects.deps.json
+/Users/dubemeneh/Documents/Projects/C#Projects/C# Retail Store/bin/Debug/net8.0/C#Projects.runtimeconfig.json
+/Users/dubemeneh/Documents/Projects/C#Projects/C# Retail Store/bin/Debug/net8.0/C#Projects.dll
+/Users/dubemeneh/Documents/Projects/C#Projects/C# Retail Store/bin/Debug/net8.0/C#Projects.pdb
+/Users/dubemeneh/Documents/Projects/C#Projects/C# Retail Store/obj/Debug/net8.0/C#Projects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dubemeneh/Documents/Projects/C#Projects/C# Retail Store/obj/Debug/net8.0/C#Projects.AssemblyInfoInputs.cache
+/Users/dubemeneh/Documents/Projects/C#Projects/C# Retail Store/obj/Debug/net8.0/C#Projects.AssemblyInfo.cs
+/Users/dubemeneh/Documents/Projects/C#Projects/C# Retail Store/obj/Debug/net8.0/C#Projects.csproj.CoreCompileInputs.cache
+/Users/dubemeneh/Documents/Projects/C#Projects/C# Retail Store/obj/Debug/net8.0/C#Projects.sourcelink.json
+/Users/dubemeneh/Documents/Projects/C#Projects/C# Retail Store/obj/Debug/net8.0/C#Projects.dll
+/Users/dubemeneh/Documents/Projects/C#Projects/C# Retail Store/obj/Debug/net8.0/refint/C#Projects.dll
+/Users/dubemeneh/Documents/Projects/C#Projects/C# Retail Store/obj/Debug/net8.0/C#Projects.pdb
+/Users/dubemeneh/Documents/Projects/C#Projects/C# Retail Store/obj/Debug/net8.0/C#Projects.genruntimeconfig.cache
+/Users/dubemeneh/Documents/Projects/C#Projects/C# Retail Store/obj/Debug/net8.0/ref/C#Projects.dll
